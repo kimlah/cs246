@@ -1,7 +1,7 @@
 body {
     background-color: white;
     color: #51ceca;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 1.5;
 }
 
@@ -19,7 +19,7 @@ header, footer {
 
 header {
     font-family: font-family: 'Tajawal', sans-serif;
-    font-size: 22px;
+    font-size: 18px;
     padding: 1rem;
 }
 
