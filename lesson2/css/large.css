@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @media only screen and (min-width: 65em) {
     
     .container {
@@ -11,4 +12,19 @@
         margin-left: 5%;
         margin-right:5%;
     }
+=======
+@media only screen and (min-width: 1000px ) {
+    
+    .container {
+        min-width: 1000px;
+        margin: auto;
+    }
+    main {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 30px;
+        margin-left: 5%;
+        margin-right:5%;
+    }
+>>>>>>> b2addae79d143485cf3bbc94a219aebd21db0fb4
 }
