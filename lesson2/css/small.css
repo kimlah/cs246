@@ -1,27 +1,15 @@
-@media (max-width: 350px) {
-    .container {
-        max-width: 350px;
-        margin: auto;
-    }
-    main {
-        margin-left: 5%;
-        margin-right:5%;
-    }
-}
-
 body {
+    max-width: 100%;
+    margin: 0 auto;
     background-color: white;
     color: #51ceca;
     font-size: 14px;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2 {
     font-family: 'Tajawal', sans-serif;
     text-align: center;
-}
-
-h3, p {
-    font-family: 'Open Sans', sans-serif;;
 }
 
 header, footer {
@@ -39,9 +27,15 @@ header, footer {
     text-align: center;
     border-radius: 10px;
 }
+
 .thirds p, .contrast p, .repitition p {
     padding: 15px;
 }
+
 .thirdsimg, .contrastimg, .repititionimg {
     max-width: 100%;
+}
+
+footer a {
+    color: white;
 }
