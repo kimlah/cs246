@@ -1,0 +1,32 @@
+body {
+    background-color:#F1F0EA;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+header, main, footer {
+    margin: 1.25rem auto;
+    max-width: 1000px;
+}
+
+header, footer {
+    background-color:#415D43;
+    border: 8px solid #F79824;
+    color: #000022;
+    text-align: center;
+}
+
+header, footer, h1, h2, h3, h4, h5, h6 {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 18px;
+    padding: 1rem;
+}
+
+h2, h3, h4, h5, h6 {
+    background-color: #000022;
+    color: #F79824;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;;
+}
