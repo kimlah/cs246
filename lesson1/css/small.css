@@ -38,7 +38,7 @@ h2 {
     text-align: center;
 }
 
-footer a:link, a:visited {
+footer a:link, footer a:visited {
     color: white;
 }
 
