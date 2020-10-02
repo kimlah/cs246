@@ -24,20 +24,24 @@ header {
 }
 
 header img {
-    float: right;
     margin: 10px;
     outline: 5px solid #8de6e3;
     border: 5px solid #d8e3e4;
     max-width: 33%;
+}
 
 h2, p {
-    font-family: 'Open Sans', sans-serif;;
+    font-family: 'Open Sans', sans-serif;
 }
 
 h2 {
     text-align: center;
 }
 
-footer a {
+footer a:link, a:visited {
     color: white;
+}
+
+a {
+    text-decoration: none;
 }
