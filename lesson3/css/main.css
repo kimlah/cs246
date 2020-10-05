@@ -39,3 +39,19 @@ a {
     text-decoration: none;
 }
 
+ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #F1F0EA;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
