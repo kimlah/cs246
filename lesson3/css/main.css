@@ -46,6 +46,7 @@ ul {
 
 li {
     float: left;
+    border-right: 1px solid #F79824;
 }
 
 li a {
@@ -54,4 +55,8 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+li:last-child {
+    border-right: none;
 }
