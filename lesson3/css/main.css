@@ -30,3 +30,12 @@ h2, h3, h4, h5, h6 {
 p {
     font-family: 'Montserrat', sans-serif;;
 }
+
+footer a:link, footer a:visited {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
