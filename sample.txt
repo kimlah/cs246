@@ -1,1 +1,3 @@
-This is the first message for our week 4 group assignment. Now I am changing the file to pull the changes.
+This is the first message for our week 4 group assignment. 
+Now I am changing the file to pull the changes.
+This is the third change to cause a merge conflict.
